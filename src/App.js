@@ -1,10 +1,10 @@
 import "./App.css";
-import CounterUseState from "./Component/CounterUseState";
+import CounterRedux from "./Component/CounterRedux";
 
 function App() {
   return (
     <div className="App">
-      <CounterUseState />
+      <CounterRedux />
     </div>
   );
 }
